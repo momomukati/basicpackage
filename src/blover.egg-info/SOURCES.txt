@@ -1,0 +1,8 @@
+setup.py
+src/blover/BookLover.py
+src/blover/BookLover_test.py
+src/blover/demo.py
+src/blover.egg-info/PKG-INFO
+src/blover.egg-info/SOURCES.txt
+src/blover.egg-info/dependency_links.txt
+src/blover.egg-info/top_level.txt
